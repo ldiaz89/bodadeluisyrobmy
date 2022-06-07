@@ -1069,11 +1069,11 @@ form {
 		@include border-radius(50%);
 		// overflow: hidden;
 		// margin-left: 5px;
-		width: 150px;
-		height: 150px;
+		width: 250px;
+		height: 250px;
 		img{
-			width: 150px;
-			height: 150px;
+			width: 250px;
+			height: 250px;
 			@include border-radius(50%);
 		}
 		@media screen and (max-width: $screen-xs){
